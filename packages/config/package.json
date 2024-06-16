@@ -4,7 +4,7 @@
   "license": "MIT",
   "private": true,
   "dependencies": {
-    "ip": "^1.1.5"
+    "ip": "^2.0.1"
   },
   "devDependencies": {
     "@types/ip": "^1.1.0"
